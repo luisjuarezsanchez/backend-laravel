@@ -13,7 +13,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 # Importante
 Para esta prueba tecnica no es necesario poner en ambiente local el Backend, ya que este esta publicado en mi Host de Hostinger, con la finalidad de simplificar la compilacion en local, sin embargo adjunto el codigo para que se refleje por si se ocupa validar las soluciones propuestas.
 
-De esta manera los `endpoint con los que se comunica el front, estan con disponibilidad total desde internet`
+De esta manera los `endpoint` con los que se comunica el front, estan con disponibilidad total desde internet
 
 # Si se considera necesaria la compilacion local
 1. Clona el repositorio de git
